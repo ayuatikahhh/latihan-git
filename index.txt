@@ -1,1 +1,2 @@
 Halo dunia!
+Belajar Git itu menyenangkan!
