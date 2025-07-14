@@ -1,2 +1,3 @@
 Halo dunia!
 Belajar Git itu menyenangkan!
+Belajar Git bareng ChatGPT itu seru banget!
